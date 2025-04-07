@@ -11,3 +11,5 @@ Je suis actuellement enseignant-chercheur en géographie à l'Université de Tec
 Mes travaux de recherche s’inscrivent dans un **cadre pluridisciplinaire** de la **géographie de l'environnement**, des **sciences de l'information géographique** et de la **géographie humaine**. 
 
 J'interroge les notions de **gouvernance informationnelle** et **d'inégalités environnementales**, de **vulnérabilité** et de **transition** dans les **territoires ruraux, urbains et littoraux**. 
+
+ <a href="https://cv.hal.science/johan-desbonnet" class="bouton">Lien vers ma page HAL</a> 

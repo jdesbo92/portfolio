@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
-order: 0
-in_menu: false
+order: 1
+in_menu: true
 ---
 # Johan Desbonnet  
 

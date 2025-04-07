@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-order: 3
+order: 2
 in_menu: true
 ---
 1. REBAI, N., DESBONNET, J., et REBEI H., (2024), « Dans le périurbain, la révolution n’a pas encore eu lieu. Inégalités foncières et vulnérabilité des territoires ruraux dans la périphérie de Sfax en Tunisie : l’exemple de Mahrès », ANNALES DE GÉOGRAPHIE - N°759-760 (5-6/2024), pp. 181-210, Armand Colin

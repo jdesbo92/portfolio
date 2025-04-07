@@ -14,4 +14,5 @@ J'interroge les notions de **gouvernance informationnelle** et **d'inégalités 
 
 <a href="https://cv.hal.science/johan-desbonnet" class="bouton">Lien vers ma page HAL</a> 
 
-![le Jbel Bargou dans la délégation de Siliana en Tunisie, octobre 2024]({% link images/IMG_20241019_103119.jpg %}) 
+![le Jbel Bargou dans la délégation de Siliana en Tunisie, octobre 2024]({% link images/IMG_20241019_103119.jpg %})  
+Jbel Bargou dans la délégation de Siliana en Tunisie, octobre 2024 

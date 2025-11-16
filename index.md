@@ -7,10 +7,11 @@ in_menu: true
 
 Bienvenue sur ma page professionnelle
 
-Je suis actuellement enseignant-chercheur en géographie à l'Université de Technologie de Compiègne.
+Je suis docteur en géographie (CNU 23) de l'Université de Bretagne Occidentale (Brest).
+
 Mes travaux de recherche s’inscrivent dans un **cadre pluridisciplinaire** de la **géographie de l'environnement**, des **sciences de l'information géographique** et de la **géographie humaine**. 
 
-J'interroge les notions de **gouvernance informationnelle** et **d'inégalités environnementales**, de **vulnérabilité** et de **transition** dans les **territoires ruraux, urbains et littoraux** sur des terrains aux Nords (France, Canada) et dans les Suds (Tunisie, Brésil). 
+Je m'intéresse aux notions de **gouvernance informationnelle** et **d'inégalités environnementales**, de **vulnérabilité** et de **transition** dans les **territoires ruraux, urbains et littoraux**sur des terrains aux Nords (France, Canada) et dans les Suds (Tunisie, Brésil). 
 
 <a href="https://cv.hal.science/johan-desbonnet" class="bouton">Lien vers ma page HAL</a> 
 

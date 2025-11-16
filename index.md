@@ -18,4 +18,4 @@ Je m'intéresse aux notions de **gouvernance informationnelle** et **d'inégalit
 ![le Jbel Bargou dans la délégation de Siliana en Tunisie, octobre 2024]({% link images/IMG_20241019_103119.jpg %})  
 Jbel Bargou dans la délégation de Siliana en Tunisie, octobre 2024 
 
-Ce site est construit à partir du logiciel libre de l'Atelier scribouilli et de Github <a href="https://scribouilli.org/"</a> 
+Ce site est construit à partir du logiciel libre de l'Atelier scribouilli et de Github [Atelier Scribouilli](https://scribouilli.org/) 

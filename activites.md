@@ -10,9 +10,11 @@ _En cours d'élaboration_
 
 ## Activités d'enseignement 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Syntax      | Description | Syntax      | Description |
+| ----------- | ----------- | ----------- | ----------- |
+| Header      | Title       | Header      | Title       |
+| Paragraph   | Text      |Header      | Title       |
+
+
 
 _En cours d'élaboration_ 

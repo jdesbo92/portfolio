@@ -7,7 +7,7 @@ in_menu: true
 Mes activités de recherche portent sur l'étude des enjeux de construction, de diffusion et d'usage des connaissances environnementales dans les politiques publiques en lien avec la transition des territoires exposés aux changements environnementaux. 
 A ce titre je mobilise différentes méthodologies mixtes (quali-quanti) liées aux méthodes de recherche numérique et à la recherche-action (méthodes participatives, observation participante et non participante).
 
-<p class="encart"> <span style="color:red">
+<p class="encart"> <span style="color: #d87c4bff">
 Mots-clefs :
 </span> sciences de l'information géographique ; littoraux ; espaces ruraux ; inégalités ; transition(s) territoriales ; méthodes de recherche mixtes</p>
 

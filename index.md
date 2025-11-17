@@ -11,7 +11,7 @@ Je suis docteur en géographie (CNU 23) de l'Université de Bretagne Occidentale
 
 Mes travaux de recherche s’inscrivent dans un **cadre pluridisciplinaire** de la **géographie de l'environnement**, des **sciences de l'information géographique** et de la **géographie humaine**. 
 
-Je m'intéresse aux notions de **gouvernance informationnelle** et **d'inégalités environnementales**, de **vulnérabilité** et de **transition** dans les **territoires ruraux, urbains et littoraux**sur des terrains aux Nords (France, Canada) et dans les Suds (Tunisie, Brésil). 
+Je m'intéresse aux enjeux de **gouvernance informationnelle**,de **transition territoriale**, **d'inégalités socio-spatiales et environnementales**, de **vulnérabilité** et  dans les **territoires ruraux, urbains et littoraux** sur des terrains aux Nords (France, Canada) et dans les Suds (Tunisie, Brésil). 
 
 <a href="https://cv.hal.science/johan-desbonnet" class="bouton">Lien vers ma page HAL</a> 
 

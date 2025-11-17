@@ -4,9 +4,9 @@ order: 1
 in_menu: true
 ---
 ## Activités de recherche 
-_En cours d'élaboration_ 
+Mes activités de recherche s'intéressent aux enjeux d'étude de la construction des connaissances environnementales et à leur usages dans la représentation de la vulnérabilité socio-environnementale des territoires. Je travaille sur la façon dont les connaissances sont mobilisées dans des politiques publiques en lien 
 
-<p class="encart"> et </p>
+<p class="encart"> Mots-clefs : sciences de l'information géographique ; littoraux ; espaces ruraux ; inégalités ; transition(s) territoriales</p>
 
 ## Activités d'enseignement 
 

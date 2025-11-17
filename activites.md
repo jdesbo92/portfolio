@@ -4,9 +4,12 @@ order: 1
 in_menu: true
 ---
 ## Activités de recherche 
-Mes activités de recherche s'intéressent aux enjeux d'étude de la construction des connaissances environnementales et à leur usages dans la représentation de la vulnérabilité socio-environnementale des territoires. Je travaille sur la façon dont les connaissances sont mobilisées dans des politiques publiques en lien 
+Mes activités de recherche portent sur l'étude des enjeux de construction, de diffusion et d'usage des connaissances environnementales dans les politiques publiques en lien avec la transition des territoires exposés aux changements environnementaux. 
+A ce titre je mobilise différentes méthodologies mixtes (quali-quanti) liées aux méthodes de recherche numérique et à la recherche-action (méthodes participatives, observation participante et non participante).
 
-<p class="encart"> Mots-clefs : sciences de l'information géographique ; littoraux ; espaces ruraux ; inégalités ; transition(s) territoriales</p>
+<p class="encart"> <span style="color:red">
+Mots-clefs :
+</span> sciences de l'information géographique ; littoraux ; espaces ruraux ; inégalités ; transition(s) territoriales ; méthodes de recherche mixtes</p>
 
 ## Activités d'enseignement 
 

@@ -18,7 +18,7 @@ Mes enseignements se situent au carrefour de la **géographie humaine**, de la *
 | Période et mention  | Niveau | Intitulé et Description |
 | ----------- | ----------- | ----------- | ----------- |
 | <span style="color: #d87c4bff">
-2023-2025</span>  cycle ingénieur  | Licence - Master  | **Les risques : entre technique et société à l’heure de l’Anthropocène - géographie des risques - modélisation des connaissances - analyse spatiale et systèmes d'information géographique
+2023-2025</span>  cycle ingénieur  | Licence - Master  | **Les risques : entre technique et société à l’heure de l’Anthropocène** - géographie des risques - modélisation des connaissances - analyse spatiale et systèmes d'information géographique
    | Title       |
 | Paragraph   | Text      |Header      | Title       |
 

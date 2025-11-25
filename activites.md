@@ -17,7 +17,7 @@ Mes enseignements se situent au carrefour de la **géographie humaine**, de la *
 
 | Période et mention  | Niveau | Intitulé et Description |
 | ----------- | ----------- | ----------- | ----------- |
-| <span style="color: #d87c4bff">2023-2025 </span>    | Title       | Header      | Title       |
+|     | Title       | Header      | Title       |
 | Paragraph   | Text      |Header      | Title       |
 
 

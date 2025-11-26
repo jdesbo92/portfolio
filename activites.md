@@ -5,7 +5,7 @@ in_menu: true
 ---
 ## Activités de recherche 
 Mes activités de recherche portent sur l'étude des enjeux de construction, de diffusion et d'usage des connaissances environnementales dans les politiques publiques en lien avec la transition des territoires exposés aux changements environnementaux. 
-A ce titre je mobilise différentes méthodologies mixtes (quali-quanti) liées aux méthodes de recherche numérique et à la recherche-action (méthodes participatives, observation participante et non participante).
+A ce titre, je mobilise différentes méthodologies mixtes (quali-quanti) liées aux méthodes de recherche numérique et à la recherche-action (méthodes participatives, observation participante et non participante).
 
 <p class="encart"> <span style="color: #d87c4bff">
 Mots-clefs :
@@ -17,8 +17,7 @@ Mes enseignements se situent au carrefour de la **géographie humaine**, de la *
 
 | Période et mention  | Niveau | Intitulé et Description |
 | ----------- | ----------- | ----------- | ----------- |
-| <span style="color: #d87c4bff">
-2023-2025 </span>  cycle ingénieur  | Licence - Master  | **Les risques : entre technique et société à l’heure de l’Anthropocène** : géographie des risques - modélisation des connaissances - analyse spatiale et systèmes d'information géographique
+| <span style="color: #d87c4bff">2023-2025 </span>  cycle ingénieur  | Licence - Master  | **Les risques : entre technique et société à l’heure de l’Anthropocène** : géographie des risques - modélisation des connaissances - analyse spatiale et systèmes d'information géographique
    | Title       |
 | Paragraph   | Text      |Header      | Title       |
 

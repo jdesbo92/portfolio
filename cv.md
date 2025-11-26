@@ -28,7 +28,7 @@
         <img align="middle" src="https://github.com/jdesbo92/portfolio/blob/main/images/image_cv_2025.jpg" width="210" height=auto />
         <p></p>
         <p><strong>Research interests:</strong>  GIS ; coastal geography ; inequalities ; rural territories ; representations  <br>
-      <a href="http://paulhbeaumont.github.io/pdfs/cv_beaumont.pdf" style="color: #DC143C">Download my resume</a></p>
+      <a href="https://github.com/jdesbo92/portfolio/blob/main/pdfs/CV_SCIENTIFIQUE_JOHAN_DESBONNET_2025.pdf" style="color: #DC143C">Download my resume</a></p>
       </header>
 
 

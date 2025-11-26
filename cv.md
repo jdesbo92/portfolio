@@ -1,3 +1,8 @@
+---
+title: "cv"
+order: 1
+in_menu: true
+---
 <html>
   <head>
     <meta charset="utf-8">

@@ -41,8 +41,8 @@ in_menu: true
 		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la caractérisation de la transition dans les territoires ruraux tunisiens. </p>
 
         <h2>Formation</h2>
-        <p><strong>Doctorat de géographie (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #DC143C">Lien vers la thèse</a>)
-        <p><strong>Master (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #DC143C">Lien vers la thèse</a>)
+        <p><strong>*Doctorat de géographie (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #DC143C">Lien vers la thèse</a>)
+        <p><strong>*Master (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #DC143C">Lien vers la thèse</a>)
 
       <h2>Publications</h2>
 

@@ -37,9 +37,8 @@ in_menu: true
       <a href="https://jdesbo92.github.io/portfolio/pdfs/CV_SCIENTIFIQUE_JOHAN_DESBONNET_2025.pdf" style="color: #d87c4bff">Download my resume</a></p>
       </header>
 
-
       <section>
-		<p>In August 2020 I will join the Desautels Faculty of Management at McGill University as Assistant Professor of Finance. I am currently a visiting researcher at <a href="https://www.insee.fr/en/accueil">Insee</a>. </p>
+		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la caractérisation de la transition dans les territoires ruraux tunisiens</a>. </p>
 
         <h2>Job Market Paper</h2>
         <p><strong>Building a Customer Base under Liquidity Constraints</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_JMP.pdf" style="color: #DC143C">pdf</a>), <br>

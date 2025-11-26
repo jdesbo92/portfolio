@@ -22,7 +22,6 @@ in_menu: true
       ga('send', 'pageview');
     </script>
   </head>
-   <p>Welcome to my website!</p>
   <body>
     <div class="wrapper">
       <header>
@@ -42,13 +41,10 @@ in_menu: true
 		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la caractérisation de la transition dans les territoires ruraux tunisiens. </p>
 
         <h2>Formation</h2>
-        <p><strong>Building a Customer Base under Liquidity Constraints</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_JMP.pdf" style="color: #DC143C">pdf</a>), <br>
-      with Clémence Lenoir (CREST-Ecole Polytechnique). <br>
-      <u>Presented at</u>: GEP/CEPR Conference (2018), BYEC (2018), EFA (2018), SETC (2018), FIRS (2019), NFA PhD Session (2019), MIT Organizational Economics Lunch Seminar (2019), CEPR/JIE School on Applied Industrial Organisation (2020*). <br>
-      <u>Best Ph.D. Paper at 2019 Northern Finance Association</u><br>
-      <u>Press coverage</u>: <a href="https://www.voxfi.fr/et-les-delais-de-paiement-a-propos/">VoxFi</a></p>
+        <p><strong>Doctorat de géographie (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #DC143C">Lien vers la thèse</a>)
+        <p><strong>Master (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #DC143C">Lien vers la thèse</a>)
 
-      <h2>Working papers</h2>
+      <h2>Publications</h2>
 
       <p><strong>Build or Buy? Human Capital and Corporate Diversification</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_hebert_lyonnet.pdf" style="color: #DC143C">pdf</a>),  <br>
       with <a href="https://sites.google.com/site/camhebert/home">Camille Hebert</a> (University of Toronto) and <a href="https://sites.google.com/site/victorlyonnet/">Victor Lyonnet</a> (Ohio State University). <br>

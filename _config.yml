@@ -7,3 +7,6 @@ plugins:
 theme: mimoza
 scribouilli: true
 baseurl: /portfolio
+[markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true 

@@ -33,7 +33,7 @@ in_menu: true
         Research affiliate at  <a href="https://pleiade.univ-paris13.fr/">PLEAIDE EA 7338 (Université Sorbonne Paris Nord) </a></p>
         <img align="middle" src="https://jdesbo92.github.io/portfolio/images/image_cv_2025.jpg" width="210" height=auto />
         <p></p>
-        <p><strong>Research interests:</strong>  GIS ; coastal geography ; inequalities ; rural territories ; representations  <br>
+        <p><strong>Research interests:</strong> environment ; GIS ; coastal geography ; inequalities ; rural territories ; representations  <br>
       <a href="https://jdesbo92.github.io/portfolio/pdfs/CV_SCIENTIFIQUE_JOHAN_DESBONNET_2025.pdf" style="color: #DC143C">Download my resume</a></p>
       </header>
 

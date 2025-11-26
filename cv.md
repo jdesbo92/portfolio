@@ -27,11 +27,11 @@ in_menu: true
     <div class="wrapper">
       <header>
         <h1>Johan Desbonnet</h1>
-        <a href="mailto:johan.desbonnet@univ-paris13.fr"><small>johan.desbonnet@univ-brest.fr</small></a>
+        <a href="mailto:johan.desbonnet@univ-paris13.fr"><small>johan.desbonnet@univ-paris13.fr</small></a>
         <p>Ph.D. in Geography <br>
-        <a href="http://www.dauphine.fr/en/welcome.html">Université Paris Dauphine</a><br>
-        Research affiliate at  <a href="http://www.crest.fr/index.php">LETG UMR 6554</a></p>
-        <img align="middle" src="http://paulhbeaumont.github.io/jpgs/photoCV4.jpg" width="210" height=auto />
+        <a href="https://www.univ-brest.fr">Université de Bretagne Occidentale </a><br>
+        Research affiliate at  <a href="https://pleiade.univ-paris13.fr/">PLEAIDE EA 7338 (Université Sorbonne Paris Nord) </a></p>
+        <img align="middle" src="https://pleiade.univ-paris13.fr/profil/johan.desbonnet/" width="210" height=auto />
         <p></p>
         <p><strong>Research interests:</strong> corporate finance, labor and finance, M&As <br>
         microeconometrics of banking. <br>

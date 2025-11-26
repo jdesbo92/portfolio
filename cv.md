@@ -41,7 +41,7 @@ in_menu: true
       <section>
 		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la caractérisation de la transition dans les territoires ruraux tunisiens. </p>
 
-        <h2>Working </h2>
+        <h2>Formation</h2>
         <p><strong>Building a Customer Base under Liquidity Constraints</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_JMP.pdf" style="color: #DC143C">pdf</a>), <br>
       with Clémence Lenoir (CREST-Ecole Polytechnique). <br>
       <u>Presented at</u>: GEP/CEPR Conference (2018), BYEC (2018), EFA (2018), SETC (2018), FIRS (2019), NFA PhD Session (2019), MIT Organizational Economics Lunch Seminar (2019), CEPR/JIE School on Applied Industrial Organisation (2020*). <br>

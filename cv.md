@@ -26,7 +26,6 @@ in_menu: true
     <div class="wrapper">
       <header>
         <h1>Johan Desbonnet</h1>
-        
         <p>Ph.D. in Geography <br>
         <a href="https://www.univ-brest.fr">Université de Bretagne Occidentale </a><a href="https://letg.cnrs.fr/">UMR LETG 6554 </a><br>
         Research affiliate at  <a href="https://pleiade.univ-paris13.fr/">PLEAIDE EA 7338 (Université Sorbonne Paris Nord) </a></p>
@@ -34,17 +33,16 @@ in_menu: true
 		<a href="mailto:johan.desbonnet@univ-paris13.fr"><small>johan.desbonnet@univ-paris13.fr</small></a>
         <p></p>
         <p><strong>Research interests:</strong> environment ; GIS ; coastal geography ; inequalities ; rural territories ; representations  <br>
-      <a href="https://jdesbo92.github.io/portfolio/pdfs/CV_SCIENTIFIQUE_JOHAN_DESBONNET_2025.pdf" style="color: #d87c4bff">Download my resume</a></p>
+      <a href="https://jdesbo92.github.io/portfolio/pdfs/cv_desbonnet_2025.pdf" style="color: #d87c4bff">Download my resume</a></p>
       </header>
 
-      <section>
+<section>
 		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la caractérisation de la transition dans les territoires ruraux tunisiens. </p>
-
         <h2>Formation</h2>
         <p><strong>- Doctorat de géographie (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
         <p><strong>- Master (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
-
-      <h2>Publications</h2>
+      
+<h2>Publications</h2>
 
       <p><strong>Build or Buy? Human Capital and Corporate Diversification</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_hebert_lyonnet.pdf" style="color: #DC143C">pdf</a>),  <br>
       with <a href="https://sites.google.com/site/camhebert/home">Camille Hebert</a> (University of Toronto) and <a href="https://sites.google.com/site/victorlyonnet/">Victor Lyonnet</a> (Ohio State University). <br>

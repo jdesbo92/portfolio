@@ -34,7 +34,7 @@ in_menu: true
         <img align="middle" src="https://jdesbo92.github.io/portfolio/images/image_cv_2025.jpg" width="210" height=auto />
         <p></p>
         <p><strong>Research interests:</strong> environment ; GIS ; coastal geography ; inequalities ; rural territories ; representations  <br>
-      <a href="https://jdesbo92.github.io/portfolio/pdfs/CV_SCIENTIFIQUE_JOHAN_DESBONNET_2025.pdf" style="color: #DC143C">Download my resume</a></p>
+      <a href="https://jdesbo92.github.io/portfolio/pdfs/CV_SCIENTIFIQUE_JOHAN_DESBONNET_2025.pdf" style="color: #d87c4bff">Download my resume</a></p>
       </header>
 
 

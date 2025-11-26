@@ -26,9 +26,9 @@ in_menu: true
   <body>
     <div class="wrapper">
       <header>
-        <h1>Johan Desbonnet
-        <a href="mailto:johan.desbonnet@univ-brest.fr"><small>johan.desbonnet@univ-brest.fr</small></a></h1>
-        <p>Ph.D. in Finance <br>
+        <h1>Johan Desbonnet</h1>
+        <a href="mailto:johan.desbonnet@univ-paris13.fr"><small>johan.desbonnet@univ-brest.fr</small></a>
+        <p>Ph.D. in Geography <br>
         <a href="http://www.dauphine.fr/en/welcome.html">Université Paris Dauphine</a><br>
         Research affiliate at  <a href="http://www.crest.fr/index.php">LETG UMR 6554</a></p>
         <img align="middle" src="http://paulhbeaumont.github.io/jpgs/photoCV4.jpg" width="210" height=auto />

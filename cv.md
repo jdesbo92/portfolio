@@ -1,3 +1,8 @@
+---
+title: "cv"
+order: 1
+in_menu: true
+---
 <!doctype html>
 <html>
   <head>
@@ -93,4 +98,4 @@
   </div>
   <script src="javascripts/scale.fix.js"></script>
 </body>
-</html>
+</html> 

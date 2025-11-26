@@ -1,6 +1,5 @@
 ---
 title: "Curriculum Vitae"
-order: 6
+order: 2
 in_menu: true
 ---
- 

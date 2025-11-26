@@ -3,7 +3,7 @@ title: "cv"
 order: 1
 in_menu: true
 ---
-<!doctype html>
+
 <html>
   <head>
     <meta charset="utf-8">

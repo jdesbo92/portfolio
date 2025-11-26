@@ -27,7 +27,7 @@ in_menu: true
     <div class="wrapper">
       <header>
         <h1>Johan Desbonnet</h1>
-        <a href="mailto:johan.desbonnet@univ-paris13.fr"><small>johan.desbonnet@univ-paris13.fr</small></a>
+        
         <p>Ph.D. in Geography <br>
         <a href="https://www.univ-brest.fr">Université de Bretagne Occidentale </a><a href="https://letg.cnrs.fr/">UMR LETG 6554 </a><br>
         Research affiliate at  <a href="https://pleiade.univ-paris13.fr/">PLEAIDE EA 7338 (Université Sorbonne Paris Nord) </a></p>
@@ -38,9 +38,9 @@ in_menu: true
       </header>
 
       <section>
-		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la caractérisation de la transition dans les territoires ruraux tunisiens</a>. </p>
+		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la caractérisation de la transition dans les territoires ruraux tunisiens. </p>
 
-        <h2>Job Market Paper</h2>
+        <h2>Working </h2>
         <p><strong>Building a Customer Base under Liquidity Constraints</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_JMP.pdf" style="color: #DC143C">pdf</a>), <br>
       with Clémence Lenoir (CREST-Ecole Polytechnique). <br>
       <u>Presented at</u>: GEP/CEPR Conference (2018), BYEC (2018), EFA (2018), SETC (2018), FIRS (2019), NFA PhD Session (2019), MIT Organizational Economics Lunch Seminar (2019), CEPR/JIE School on Applied Industrial Organisation (2020*). <br>

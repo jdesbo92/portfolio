@@ -22,6 +22,7 @@ in_menu: true
       ga('send', 'pageview');
     </script>
   </head>
+   <p>Welcome to my website!</p>
   <body>
     <div class="wrapper">
       <header>
@@ -38,9 +39,6 @@ in_menu: true
 
 
       <section>
-
-        <p>Welcome to my website!</p>
-
 		<p>In August 2020 I will join the Desautels Faculty of Management at McGill University as Assistant Professor of Finance. I am currently a visiting researcher at <a href="https://www.insee.fr/en/accueil">Insee</a>. </p>
 
         <h2>Job Market Paper</h2>

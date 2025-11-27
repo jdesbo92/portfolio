@@ -79,9 +79,7 @@ in_menu: true
 <p>-<strong>Recherche-action </strong>: réunions avec les services agricoles en Tunisie et les agriculteurs ; conception d’une application mobile de cartographie à dire d’acteurs selon les principes lowtech (Mergin Maps)
 <p>-<strong>Animation et organisation d’équipes d’axes </strong>: mise en place technique (visioconférences), rapporteur, discutant et animateur
 
-
-     </section>
-	 
+ </section> 
   </div>
   <script src="javascripts/scale.fix.js"></script>
 </body>

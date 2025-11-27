@@ -50,47 +50,19 @@ in_menu: true
 
 <h2>Publications</h2>
 
-<p>[1] REBAI, N., DESBONNET, J., et REBEI H., (2024), <strong>« Dans le périurbain, la révolution n’a pas encore eu lieu. Inégalités foncières et vulnérabilité des territoires ruraux dans la périphérie de Sfax en Tunisie : l’exemple de Mahrès »</strong>, Annales De Géographie - N°759-760 (5-6/2024), pp. 181-210, Armand Colin.
+<p> [1] REBAI, N., DESBONNET, J., et REBEI H., (2024), <strong>« Dans le périurbain, la révolution n’a pas encore eu lieu. Inégalités foncières et vulnérabilité des territoires ruraux dans la périphérie de Sfax en Tunisie : l’exemple de Mahrès »</strong>, Annales De Géographie - N°759-760 (5-6/2024), pp. 181-210, Armand Colin.<br>
 
-[2] REBAÏ, N., DESBONNET, J., REBEI, H., (2023),<strong>« Mutations récentes, dynamiques actuelles et perspectives de transition des territoires ruraux périurbains en Tunisie »</strong>, Revue Echogéo, URL : http://journals.openedition.org/echogeo/26122  ; DOI : https://doi.org/10.4000/echogeo.2612
+[2] REBAÏ, N., DESBONNET, J., REBEI, H., (2023),<strong>« Mutations récentes, dynamiques actuelles et perspectives de transition des territoires ruraux périurbains en Tunisie »</strong>, Revue Echogéo, URL : http://journals.openedition.org/echogeo/26122  ; DOI : https://doi.org/10.4000/echogeo.2612<br>
 
-[3] DESBONNET, J., GOURMELON F. & CLARAMUNT, C., (2019), <strong>« Analyser la structure de dispositifs de mise à disposition de données géographiques : application aux enjeux de suivi et de gestion du trait de côte en France »</strong>, Revue Internationale de Géomatique, 29 (1), pp.57-80.
+[3] DESBONNET, J., GOURMELON F. & CLARAMUNT, C., (2019), <strong>« Analyser la structure de dispositifs de mise à disposition de données géographiques : application aux enjeux de suivi et de gestion du trait de côte en France »</strong>, Revue Internationale de Géomatique, 29 (1), pp.57-80.<br>
 
-[4] DESBONNET, J. & GAUTREAU, P., (2019), <strong>« Les représentations des favelas de Rio de Janeiro (Brésil) dans le géoweb »</strong>, dans LAJARGE, R., CAILLY, L., RUAS, A. & SAEZ, G. (dirs.), Demande(s) territoriale(s), Paris, Editions Karthala., pp.185-203.
-
-
-      <p><strong>Granular Borrowers</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_hurlin_libert.pdf" style="color: #DC143C">pdf</a>),  <br>
-      with Thibault Libert (ACPR/Paris School of Economics) and <a href="http://www.univ-orleans.fr/deg/masters/ESA/CH/churlin_R.htm">Christophe Hurlin</a> (Université d'Orléans). <br>
-      <u>Presented at</u>: Paris Dauphine (2018), Annual Private Capital Research Conference Poster Session (2019), ACPR Research Initiative/ANR conference day (2019), T2M (2020*).<br>
-
-      <p><em>The * symbol denotes upcoming presentations. </em></p>
-
-        <h2>Work in progress</h2>
-
-        <p><strong>Acquisitions, Labor Reallocation and Productivity</strong>, with <a href="https://sites.google.com/site/camhebert/home">Camille Hébert</a> (University of Toronto) and <a href="https://sites.google.com/site/victorlyonnet/">Victor Lyonnet</a> (Ohio State University). <br>
-        <u>Presented at</u>: CREST (2018), HEC (2018), Labor and Finance Group Early Ideas Session (2019).</p>
-        
-        <p><strong>Acquisitions and Workers’ Health</strong>, with <a href="https://francoisderrien.com/">François Derrien</a> (HEC Paris) and <a href="https://people.hec.edu/ors/">Evren Ors</a> (HEC Paris). </p>
-
-        <h2>Policy publications</h2>
-
-        <p><strong>Prime à l'embauche dans les PME : évaluation à partir des déclarations d'embauche</strong>, <em>Insee Working paper</em>, 2018 (<a href="https://www.insee.fr/fr/statistiques/fichier/version-html/3643536/G2018-09.pdf" style="color: #DC143C">pdf</a>).<br>
-
-        <p><strong>Time is Money: Cash-Flow Risk and Export Market Behavior</strong>, <em>Insee Working paper</em>, 2017 (<a href="https://www.insee.fr/fr/statistiques/fichier/3287540/G2017-10.pdf" style="color: #DC143C">pdf</a>).<br>
-        <em>Replaced and subsumed by <strong>"Building a Customer Base under Liquidity Constraints"</strong> </em></p>
-
-        <p><strong>Prime à l’embauche dans les petites et moyennes entreprises : une première évaluation à partir des déclarations d’embauche</strong>, <em>with Antoine Luciani and Ihssane Slimani Houti</a></em>, <em>Insee Analyses</em>, 2016 (<a href="https://www.insee.fr/fr/statistiques/fichier/version-html/2538529/ia29.pdf" style="color: #DC143C">pdf</a>).<br>
-        Press coverage: <a href="http://www.lemonde.fr/emploi/article/2016/12/29/les-effets-incertains-de-la-prime-a-l-embauche-dans-les-pme_5055420_1698637.html">Le Monde</a>, <a href="https://www.lesechos.fr/economie-france/social/0211641819902-pme-limpact-de-la-prime-a-lembauche-reste-a-demontrer-2053428.php">Les Echos</a></p>
-
-        <p><strong>Le financement de l’exportation pour les PME : se mettre à flot pour passer le cap ?</strong>, <em> Les entreprises en France - Insee Références</em>, 2016 (<a href="https://www.insee.fr/fr/statistiques/fichier/2497070/ENTFRA16_d_D2-financement.pdf" style="color: #DC143C">pdf</a>).</p>
-
-        <p>(Contribution) <strong>Rapport sur le financement des PME et ETI en croissance</strong>, <em> Observatoire du financement des entreprises</em>, 2015 (<a href="http://www.economie.gouv.fr/files/files/directions_services/mediateurcredit/5_observatoire_financement/OFE_rapport_financement_PME-ETI_en_croissance_10-2015.pdf" style="color: #DC143C">pdf</a>) </p>
+[4] DESBONNET, J. & GAUTREAU, P., (2019), <strong>« Les représentations des favelas de Rio de Janeiro (Brésil) dans le géoweb »</strong>, dans LAJARGE, R., CAILLY, L., RUAS, A. & SAEZ, G. (dirs.), Demande(s) territoriale(s), Paris, Editions Karthala., pp.185-203.<br>
 
 
-        <h2>Teaching</h2>
-      <p><strong>2018-2019</strong>: Financial Markets at <a href="http://www.hec.edu/">HEC</a> (M.Sc 1st year, instructor)<br>
-      <strong>2016-2017</strong>: Microeconomics at <a href="http://www.ensae.fr/ensae/en/">ENSAE</a> (2nd year, teaching assistant)<br>
-      <strong>2014-2015</strong>: Macroeconomics at <a href="http://www.ensae.fr/ensae/en/">ENSAE</a> (2nd year, teaching assistant)
+  <h2>Teaching</h2>
+      <p><strong>2018-2019</strong>: Enseignant-chercheur contractuel en géographie et en géomatique à <a href="https://www.utc.fr/">UTC</a> (2 years)<br>
+      <strong>2022-2023 </strong>: Enseignant-chercheur contractuel LRU en géographie à <a href="">Université de Tours</a> (1 an, teaching assistant)<br>
+      <strong>2020-2022</strong>: Attaché Temporaire d’Enseignement et de Recherche en géographie à <a href="">Université Sorbonne Paris Nord</a> (two years, teaching assistant)
 
      </section>
 

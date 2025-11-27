@@ -56,10 +56,9 @@ in_menu: true
 
 
   <h2>Enseignements</h2>
-      <p><strong>2018-2019</strong>: Enseignant-chercheur contractuel en géographie et en géomatique à <a href="https://www.utc.fr/">UTC</a> (2 years)<br>
-      <strong>2022-2023 </strong>: Enseignant-chercheur contractuel LRU en géographie à <a href="https://www.univ-tours.fr/">Université de Tours</a> (1 an, teaching assistant)<br>
-      <strong>2020-2022</strong>: Attaché Temporaire d’Enseignement et de Recherche en géographie à <a href="https://www.univ-spn.fr/">Université Sorbonne Paris Nord</a> (two years, teaching assistant)
-
+      <p><strong>2018-2019</strong>: Enseignant-chercheur contractuel en géographie et en géomatique à <a href="https://www.utc.fr/">UTC</a> <br>
+      <strong>2022-2023 </strong>: Enseignant-chercheur contractuel LRU en géographie à <a href="https://www.univ-tours.fr/">Université de Tours</a> <br>
+      <strong>2020-2022</strong>: Attaché Temporaire d’Enseignement et de Recherche en géographie à <a href="https://www.univ-spn.fr/">Université Sorbonne Paris Nord</a> 
  </section> 
  
 <h2>Compétences et outils mobilisés </h2>

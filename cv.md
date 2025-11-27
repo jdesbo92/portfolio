@@ -82,7 +82,4 @@ in_menu: true
 
 
  
-  </div>
-  <script src="javascripts/scale.fix.js"></script>
-</body>
-</html> 
+

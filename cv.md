@@ -55,7 +55,7 @@ in_menu: true
 <p>[4] DESBONNET, J. & GAUTREAU, P., (2019), <strong>« Les représentations des favelas de Rio de Janeiro (Brésil) dans le géoweb »</strong>, dans LAJARGE, R., CAILLY, L., RUAS, A. & SAEZ, G. (dirs.), Demande(s) territoriale(s), Paris, Editions Karthala., pp.185-203.<br>
 
 
-  <h2>Positionnement</h2>
+  <h2>Position</h2>
       <p><strong>2018-2019</strong>: Enseignant-chercheur contractuel en géographie et en géomatique à <a href="https://www.utc.fr/">UTC</a> <br>
       <strong>2022-2023 </strong>: Enseignant-chercheur contractuel LRU en géographie à <a href="https://www.univ-tours.fr/">Université de Tours</a> <br>
       <strong>2020-2022</strong>: Attaché Temporaire d’Enseignement et de Recherche en géographie à <a href="https://www.univ-spn.fr/">Université Sorbonne Paris Nord</a> 

@@ -24,7 +24,7 @@ in_menu: true
   </head>
   <body>
     <div class="wrapper">
-    
+      <header>
         <h1>Johan Desbonnet</h1>
         <p>Ph.D. in Geography <br>
         <a href="https://www.univ-brest.fr">Université de Bretagne Occidentale </a><a href="https://letg.cnrs.fr/">UMR LETG 6554 </a><br>
@@ -39,7 +39,7 @@ in_menu: true
       </header>
 
 <section>
-		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la construction des savoirs sur la transition territoriale dans les territoires ruraux tunisiens. </p>
+		<p>* Associé au laboratoire Pléiade, je travaille actuellement sur la construction des savoirs sur la transition territoriale dans les territoires ruraux tunisiens. </p>
 
 <h2>Formation</h2>
         <p><strong>- Doctorat de géographie </strong>, Université de Bretagne Occidentale (Brest) – Laboratoire LETG (UMR 6554) Codirection avec l’Ecole Navale (IRENav)(2015-2021) (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)

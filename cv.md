@@ -61,20 +61,29 @@ in_menu: true
       <strong>2022-2023 </strong>: Enseignant-chercheur contractuel LRU en géographie à <a href="https://www.univ-tours.fr/">Université de Tours</a> (1 an, teaching assistant)<br>
       <strong>2020-2022</strong>: Attaché Temporaire d’Enseignement et de Recherche en géographie à <a href="https://www.univ-spn.fr/">Université Sorbonne Paris Nord</a> (two years, teaching assistant)
 
+
+<h2>Compétences</h2>
+- Méthodes de recherche numériques :  analyse de métriques du web (fonctionnalités, structure hypertextuelle, flux interopérables) et des contenus natifs relatifs à l’organisation et à la circulation de l’information géographique sur le web par des outils de « webscraping »  et de « webcrawling » 
+-	Langages informatiques et outils du Web 2.0 : langage SQL, HTML et CSS, Python (débutant) et syntaxe Javascript (débutant) 
+-	Géomatique, SIG et cartographie thématique : QGis, ArcGis, Magrit, PhilCarto, Khartis, cartographie web (Umap, Mapbox studio, Ma carte IGN) 
+-	Analyse spatiale : QGis, R Studio et Magrit
+-	Conception, gestion et interrogation de bases de données spatiales (Merise, UML) : PostgreSQL, Postgis, AnalyseSI, Managechart (LETG)
+-	Conception graphique et traitement de texte : Suite Adobe (Illustrator, Photoshop et Indesign), Inkscape, Draw.io, Libre office, Microsoft Office
+-	Critical data studies et cartographie critique
+-	Télédétection :  Classification supervisée et non supervisée sous QGIS, API Sentinel Hub, Google Earth Engine (débutant)
+-	Analyse statistique uni, bivariée et multivariée : R Cran
+-	Analyse statistique multidimensionnelle : Analyse en composantes principales (ACP) et Analyse factorielle des correspondances (AFC) -> libraires Factominer et textMining
+-	Analyse de graphe sous Gephi
+-	Conception et analyse d’enquêtes qualitatives et quantitatives : entretiens semi-directifs et construction d’enquêtes par questionnaire sous Framaforms  
+-	Lexicométrie :  analyse avec les packages R. Temis et textMining sous R
+-	Montage et gestion de projet : Modèle Gant, cartographie des processus (UML)
+-	Recherche-action : réunions avec les services agricoles en Tunisie et les agriculteurs ; conception d’une application mobile de cartographie à dire d’acteurs à bas coûts (Mergin Maps)
+-	Coopération décentralisée : missions d’apprentissage dans le cadre de la coopération décentralisée
+-	Animation et organisation d’équipes d’axes : mise en place technique (visioconférences), rapporteur, discutant et animateur
+
+
      </section>
-
-
-<h2>Formation</h2>
-        <p><strong>- Doctorat de géographie </strong>, Université de Bretagne Occidentale (Brest) – Laboratoire LETG (UMR 6554) Codirection avec l’Ecole Navale (IRENav)(2015-2021) (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
-	    <p><strong>- Master 2 </strong> Géographie des Pays Émergents et en Développement (GEOPED),  Université Paris I Panthéon-Sorbonne (2014-2015)
-        <p><strong>- Master  </strong> en Sciences du Territoire, spécialité Urbanisme, Habitat et Coopération Internationale (UHCI),  Université Grenoble Alpes (2012-2014)
-		<p><strong>- Licence  </strong> de Géographie, Université Paris Cité (2009-2012)
-
-
-
-
-
-
+	 
   </div>
   <script src="javascripts/scale.fix.js"></script>
 </body>

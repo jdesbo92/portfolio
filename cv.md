@@ -9,7 +9,7 @@ in_menu: true
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Johan Desbonnet</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
+<link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width">
     <script>
@@ -18,8 +18,8 @@ in_menu: true
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-88308146-1', 'auto');
-      ga('send', 'pageview');
+    ga('create', 'UA-88308146-1', 'auto');
+     ga('send', 'pageview');
     </script>
   </head>
   <body>
@@ -32,8 +32,9 @@ in_menu: true
         <img align="middle" src="https://jdesbo92.github.io/portfolio/images/image_cv_2025.jpg" width="210" height=auto />
 		<a href="mailto:johan.desbonnet@univ-paris13.fr"><small>johan.desbonnet@univ-paris13.fr</small></a>
         <p></p>
-        <p><strong>Research interests:</strong> environment ; GIS ; coastal geography ; inequalities ; rural territories ; representations  <br>
-      <a href="https://jdesbo92.github.io/portfolio/pdfs/cv_desbonnet_2025.pdf" style="color: #d87c4bff">Download my resume</a></p>
+        <p><strong>Research interests:</strong> environment and societies ; GIS ; coastal geography ; inequalities ; rural territories ; representations ; territorial transition  <br>
+      <img align="middle" src="https://jdesbo92.github.io/portfolio/images/qualif_interets_scientifiques_CV_2023_FR.png" width="210" height=auto />
+<a href="https://jdesbo92.github.io/portfolio/pdfs/cv_desbonnet_2025.pdf" style="color: #d87c4bff">Download my resume</a></p>
       </header>
 
 <section>

@@ -42,7 +42,7 @@ in_menu: true
 		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la construction des savoirs sur la transition territoriale dans les territoires ruraux tunisiens. </p>
 
 <h2>Formation</h2>
-        <p><strong>- Doctorat de géographie, Université de Bretagne Occidentale (Brest) – Laboratoire LETG (UMR 6554) Codirection avec l’Ecole Navale (IRENav)(2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
+        <p><strong>- Doctorat de géographie </strong>, Université de Bretagne Occidentale (Brest) – Laboratoire LETG (UMR 6554) Codirection avec l’Ecole Navale (IRENav)(2015-2021) (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
 	    <p><strong>- Doctorat de géographie (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
         <p><strong>- Master (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
       

@@ -50,10 +50,14 @@ in_menu: true
 
 <h2>Publications</h2>
 
-      <p><strong>Build or Buy? Human Capital and Corporate Diversification</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_hebert_lyonnet.pdf" style="color: #DC143C">pdf</a>),  <br>
-      with <a href="https://sites.google.com/site/camhebert/home">Camille Hebert</a> (University of Toronto) and <a href="https://sites.google.com/site/victorlyonnet/">Victor Lyonnet</a> (Ohio State University). <br>
-      <u>Presented at</u>: Mitsui Finance Symposium (2018), NFA (2018), University of Texas Forum on Corporate Finance (2018), 4th SDU Finance Workshop (2019) 27th Finance Forum (2019), RCEA Growth, Innovation and Entrepreneurship (2019), Paris December Finance Meeting (2019), AFA (2019), IPC Spring Research Symposium (2020), SFS Cavalcade (2020*).<br>
-      <u>Best Ph.D. Paper at 2018 ECGC Workshop on Governance and Control</u> </p>
+<p>[1] REBAI, N., DESBONNET, J., et REBEI H., (2024), <strong>« Dans le périurbain, la révolution n’a pas encore eu lieu. Inégalités foncières et vulnérabilité des territoires ruraux dans la périphérie de Sfax en Tunisie : l’exemple de Mahrès »</strong>, Annales De Géographie - N°759-760 (5-6/2024), pp. 181-210, Armand Colin.
+
+[2] REBAÏ, N., DESBONNET, J., REBEI, H., (2023),<strong>« Mutations récentes, dynamiques actuelles et perspectives de transition des territoires ruraux périurbains en Tunisie »</strong>, Revue Echogéo, URL : http://journals.openedition.org/echogeo/26122  ; DOI : https://doi.org/10.4000/echogeo.2612
+
+[3] DESBONNET, J., GOURMELON F. & CLARAMUNT, C., (2019), <strong>« Analyser la structure de dispositifs de mise à disposition de données géographiques : application aux enjeux de suivi et de gestion du trait de côte en France »</strong>, Revue Internationale de Géomatique, 29 (1), pp.57-80.
+
+[4] DESBONNET, J. & GAUTREAU, P., (2019), <strong>« Les représentations des favelas de Rio de Janeiro (Brésil) dans le géoweb »</strong>, dans LAJARGE, R., CAILLY, L., RUAS, A. & SAEZ, G. (dirs.), Demande(s) territoriale(s), Paris, Editions Karthala., pp.185-203.
+
 
       <p><strong>Granular Borrowers</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_hurlin_libert.pdf" style="color: #DC143C">pdf</a>),  <br>
       with Thibault Libert (ACPR/Paris School of Economics) and <a href="http://www.univ-orleans.fr/deg/masters/ESA/CH/churlin_R.htm">Christophe Hurlin</a> (Université d'Orléans). <br>

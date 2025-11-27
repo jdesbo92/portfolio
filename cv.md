@@ -24,7 +24,7 @@ in_menu: true
   </head>
   <body>
     <div class="wrapper">
-      <header>
+    
         <h1>Johan Desbonnet</h1>
         <p>Ph.D. in Geography <br>
         <a href="https://www.univ-brest.fr">Université de Bretagne Occidentale </a><a href="https://letg.cnrs.fr/">UMR LETG 6554 </a><br>

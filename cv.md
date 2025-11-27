@@ -28,7 +28,8 @@ in_menu: true
         <h1>Johan Desbonnet</h1>
         <p>Ph.D. in Geography <br>
         <a href="https://www.univ-brest.fr">Université de Bretagne Occidentale </a><a href="https://letg.cnrs.fr/">UMR LETG 6554 </a><br>
-        Research affiliate at  <a href="https://pleiade.univ-paris13.fr/">PLEAIDE EA 7338 (Université Sorbonne Paris Nord) </a></p> <a href="mailto:johan.desbonnet@univ-paris13.fr"><medium>johan.desbonnet@univ-paris13.fr</medium></a><br>
+        Research affiliate at  <a href="https://pleiade.univ-paris13.fr/">PLEAIDE EA 7338 (Université Sorbonne Paris Nord) 
+		<a href="mailto:johan.desbonnet@univ-paris13.fr"><medium>johan.desbonnet@univ-paris13.fr</medium></a> </a></p> <br>
         <img align="middle" src="https://jdesbo92.github.io/portfolio/images/image_cv_2025.jpg" width="210" height=auto />
 	
         <p></p>

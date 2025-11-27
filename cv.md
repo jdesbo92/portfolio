@@ -60,7 +60,8 @@ in_menu: true
       <strong>2022-2023 </strong>: Enseignant-chercheur contractuel LRU en géographie à <a href="https://www.univ-tours.fr/">Université de Tours</a> (1 an, teaching assistant)<br>
       <strong>2020-2022</strong>: Attaché Temporaire d’Enseignement et de Recherche en géographie à <a href="https://www.univ-spn.fr/">Université Sorbonne Paris Nord</a> (two years, teaching assistant)
 
-
+ </section> 
+ 
 <h2>Compétences et outils mobilisés </h2>
 <p>- <strong>Méthodes de recherche numériques :  analyse de métriques du web (fonctionnalités, structure hypertextuelle, flux interopérables) et des contenus natifs relatifs à l’organisation et à la circulation de l’information géographique sur le web par des outils de « webscraping »  et de « webcrawling » 
 <p>- <strong>Langages informatiques et outils du Web 2.0 </strong> : langage SQL, HTML et CSS, Python (débutant) et syntaxe Javascript (débutant) 
@@ -79,7 +80,8 @@ in_menu: true
 <p>-<strong>Recherche-action </strong>: réunions avec les services agricoles en Tunisie et les agriculteurs ; conception d’une application mobile de cartographie à dire d’acteurs selon les principes lowtech (Mergin Maps)
 <p>-<strong>Animation et organisation d’équipes d’axes </strong>: mise en place technique (visioconférences), rapporteur, discutant et animateur
 
- </section> 
+
+ 
   </div>
   <script src="javascripts/scale.fix.js"></script>
 </body>

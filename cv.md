@@ -50,19 +50,16 @@ in_menu: true
 
 <h2>Publications</h2>
 
-<p> [1] REBAI, N., DESBONNET, J., et REBEI H., (2024), <strong>« Dans le périurbain, la révolution n’a pas encore eu lieu. Inégalités foncières et vulnérabilité des territoires ruraux dans la périphérie de Sfax en Tunisie : l’exemple de Mahrès »</strong>, Annales De Géographie - N°759-760 (5-6/2024), pp. 181-210, Armand Colin.<br>
-
-[2] REBAÏ, N., DESBONNET, J., REBEI, H., (2023),<strong>« Mutations récentes, dynamiques actuelles et perspectives de transition des territoires ruraux périurbains en Tunisie »</strong>, Revue Echogéo, URL : http://journals.openedition.org/echogeo/26122  ; DOI : https://doi.org/10.4000/echogeo.2612<br>
-
-[3] DESBONNET, J., GOURMELON F. & CLARAMUNT, C., (2019), <strong>« Analyser la structure de dispositifs de mise à disposition de données géographiques : application aux enjeux de suivi et de gestion du trait de côte en France »</strong>, Revue Internationale de Géomatique, 29 (1), pp.57-80.<br>
-
-[4] DESBONNET, J. & GAUTREAU, P., (2019), <strong>« Les représentations des favelas de Rio de Janeiro (Brésil) dans le géoweb »</strong>, dans LAJARGE, R., CAILLY, L., RUAS, A. & SAEZ, G. (dirs.), Demande(s) territoriale(s), Paris, Editions Karthala., pp.185-203.<br>
+<p>- [1] REBAI, N., DESBONNET, J., et REBEI H., (2024), <strong>« Dans le périurbain, la révolution n’a pas encore eu lieu. Inégalités foncières et vulnérabilité des territoires ruraux dans la périphérie de Sfax en Tunisie : l’exemple de Mahrès »</strong>, Annales De Géographie - N°759-760 (5-6/2024), pp. 181-210, Armand Colin.<br>
+<p>[2] REBAÏ, N., DESBONNET, J., REBEI, H., (2023),<strong>« Mutations récentes, dynamiques actuelles et perspectives de transition des territoires ruraux périurbains en Tunisie »</strong>, Revue Echogéo, URL : http://journals.openedition.org/echogeo/26122  ; DOI : https://doi.org/10.4000/echogeo.2612<br>
+<p>[3] DESBONNET, J., GOURMELON F. & CLARAMUNT, C., (2019), <strong>« Analyser la structure de dispositifs de mise à disposition de données géographiques : application aux enjeux de suivi et de gestion du trait de côte en France »</strong>, Revue Internationale de Géomatique, 29 (1), pp.57-80.<br>
+<p>[4] DESBONNET, J. & GAUTREAU, P., (2019), <strong>« Les représentations des favelas de Rio de Janeiro (Brésil) dans le géoweb »</strong>, dans LAJARGE, R., CAILLY, L., RUAS, A. & SAEZ, G. (dirs.), Demande(s) territoriale(s), Paris, Editions Karthala., pp.185-203.<br>
 
 
   <h2>Teaching</h2>
       <p><strong>2018-2019</strong>: Enseignant-chercheur contractuel en géographie et en géomatique à <a href="https://www.utc.fr/">UTC</a> (2 years)<br>
-      <strong>2022-2023 </strong>: Enseignant-chercheur contractuel LRU en géographie à <a href="">Université de Tours</a> (1 an, teaching assistant)<br>
-      <strong>2020-2022</strong>: Attaché Temporaire d’Enseignement et de Recherche en géographie à <a href="">Université Sorbonne Paris Nord</a> (two years, teaching assistant)
+      <strong>2022-2023 </strong>: Enseignant-chercheur contractuel LRU en géographie à <a href="https://www.univ-tours.fr/">Université de Tours</a> (1 an, teaching assistant)<br>
+      <strong>2020-2022</strong>: Attaché Temporaire d’Enseignement et de Recherche en géographie à <a href="https://www.univ-spn.fr/">Université Sorbonne Paris Nord</a> (two years, teaching assistant)
 
      </section>
 

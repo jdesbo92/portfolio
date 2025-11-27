@@ -31,13 +31,11 @@ in_menu: true
         Research affiliate at  <a href="https://pleiade.univ-paris13.fr/">PLEAIDE EA 7338 (Université Sorbonne Paris Nord) <br>
 		<a href="mailto:johan.desbonnet@univ-paris13.fr"><medium>johan.desbonnet@univ-paris13.fr</medium></a> </a></p> <br>
         <img align="middle" src="https://jdesbo92.github.io/portfolio/images/image_cv_2025.jpg" width="210" height=auto />
-
- <header>
         <p></p>
         <p><strong>Research interests:</strong> environment and societies ; GIS ; coastal geography ; inequalities ; rural territories ; representations ; territorial transition  <br>
       <img align="middle" src="https://jdesbo92.github.io/portfolio/images/wordcloud_interets_scientifiques_2025_github.png" width="410" height=auto />
 <a href="https://jdesbo92.github.io/portfolio/pdfs/cv_desbonnet_2025.pdf" style="color: #d87c4bff">Download my resume</a></p>
-      </header>
+
 
 <section>
 		<p>* Associé au laboratoire Pléiade, je travaille actuellement sur la construction des savoirs sur la transition territoriale dans les territoires ruraux tunisiens. </p>

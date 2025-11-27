@@ -39,9 +39,11 @@ in_menu: true
       </header>
 
 <section>
-		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la caractérisation de la transition dans les territoires ruraux tunisiens. </p>
-        <h2>Formation</h2>
-        <p><strong>- Doctorat de géographie (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
+		<p>Associé au laboratoire Pléiade, je travaille actuellement sur la construction des savoirs sur la transition territoriale dans les territoires ruraux tunisiens. </p>
+
+<h2>Formation</h2>
+        <p><strong>- Doctorat de géographie, Université de Bretagne Occidentale (Brest) – Laboratoire LETG (UMR 6554) Codirection avec l’Ecole Navale (IRENav)(2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
+	    <p><strong>- Doctorat de géographie (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
         <p><strong>- Master (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
       
 <h2>Publications</h2>

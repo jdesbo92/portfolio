@@ -63,23 +63,23 @@ in_menu: true
 
 
 <h2>Compétences</h2>
-- Méthodes de recherche numériques :  analyse de métriques du web (fonctionnalités, structure hypertextuelle, flux interopérables) et des contenus natifs relatifs à l’organisation et à la circulation de l’information géographique sur le web par des outils de « webscraping »  et de « webcrawling » 
--	Langages informatiques et outils du Web 2.0 : langage SQL, HTML et CSS, Python (débutant) et syntaxe Javascript (débutant) 
--	Géomatique, SIG et cartographie thématique : QGis, ArcGis, Magrit, PhilCarto, Khartis, cartographie web (Umap, Mapbox studio, Ma carte IGN) 
--	Analyse spatiale : QGis, R Studio et Magrit
--	Conception, gestion et interrogation de bases de données spatiales (Merise, UML) : PostgreSQL, Postgis, AnalyseSI, Managechart (LETG)
--	Conception graphique et traitement de texte : Suite Adobe (Illustrator, Photoshop et Indesign), Inkscape, Draw.io, Libre office, Microsoft Office
--	Critical data studies et cartographie critique
--	Télédétection :  Classification supervisée et non supervisée sous QGIS, API Sentinel Hub, Google Earth Engine (débutant)
--	Analyse statistique uni, bivariée et multivariée : R Cran
--	Analyse statistique multidimensionnelle : Analyse en composantes principales (ACP) et Analyse factorielle des correspondances (AFC) -> libraires Factominer et textMining
--	Analyse de graphe sous Gephi
--	Conception et analyse d’enquêtes qualitatives et quantitatives : entretiens semi-directifs et construction d’enquêtes par questionnaire sous Framaforms  
--	Lexicométrie :  analyse avec les packages R. Temis et textMining sous R
--	Montage et gestion de projet : Modèle Gant, cartographie des processus (UML)
--	Recherche-action : réunions avec les services agricoles en Tunisie et les agriculteurs ; conception d’une application mobile de cartographie à dire d’acteurs à bas coûts (Mergin Maps)
--	Coopération décentralisée : missions d’apprentissage dans le cadre de la coopération décentralisée
--	Animation et organisation d’équipes d’axes : mise en place technique (visioconférences), rapporteur, discutant et animateur
+<p>- Méthodes de recherche numériques :  analyse de métriques du web (fonctionnalités, structure hypertextuelle, flux interopérables) et des contenus natifs relatifs à l’organisation et à la circulation de l’information géographique sur le web par des outils de « webscraping »  et de « webcrawling » 
+<p>-	Langages informatiques et outils du Web 2.0 : langage SQL, HTML et CSS, Python (débutant) et syntaxe Javascript (débutant) 
+<p>-	Géomatique, SIG et cartographie thématique : QGis, ArcGis, Magrit, PhilCarto, Khartis, cartographie web (Umap, Mapbox studio, Ma carte IGN) 
+<p>-	Analyse spatiale : QGis, R Studio et Magrit
+<p>-	Conception, gestion et interrogation de bases de données spatiales (Merise, UML) : PostgreSQL, Postgis, AnalyseSI, Managechart (LETG)
+<p>-	Conception graphique et traitement de texte : Suite Adobe (Illustrator, Photoshop et Indesign), Inkscape, Draw.io, Libre office, Microsoft Office
+<p>-	Critical data studies et cartographie critique
+<p>-	Télédétection :  Classification supervisée et non supervisée sous QGIS, API Sentinel Hub, Google Earth Engine (débutant)
+<p>-	Analyse statistique uni, bivariée et multivariée : R Cran
+<p>-	Analyse statistique multidimensionnelle : Analyse en composantes principales (ACP) et Analyse factorielle des correspondances (AFC) -> libraires Factominer et textMining
+<p>-	Analyse de graphe sous Gephi
+<p>-	Conception et analyse d’enquêtes qualitatives et quantitatives : entretiens semi-directifs et construction d’enquêtes par questionnaire sous Framaforms  
+<p>-	Lexicométrie :  analyse avec les packages R. Temis et textMining sous R
+<p>-	Montage et gestion de projet : Modèle Gant, cartographie des processus (UML)
+<p>-	Recherche-action : réunions avec les services agricoles en Tunisie et les agriculteurs ; conception d’une application mobile de cartographie à dire d’acteurs à bas coûts (Mergin Maps)
+<p>-	Coopération décentralisée : missions d’apprentissage dans le cadre de la coopération décentralisée
+<p>-	Animation et organisation d’équipes d’axes : mise en place technique (visioconférences), rapporteur, discutant et animateur
 
 
      </section>

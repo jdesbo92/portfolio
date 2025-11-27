@@ -43,9 +43,11 @@ in_menu: true
 
 <h2>Formation</h2>
         <p><strong>- Doctorat de géographie </strong>, Université de Bretagne Occidentale (Brest) – Laboratoire LETG (UMR 6554) Codirection avec l’Ecole Navale (IRENav)(2015-2021) (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
-	    <p><strong>- Doctorat de géographie (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
-        <p><strong>- Master (2015-2021)</strong> (<a href="https://theses.hal.science/tel-03669066v1" style="color: #d87c4bff">Lien vers la thèse</a>)
-      
+	    <p><strong>- Master 2 </strong> Géographie des Pays Émergents et en Développement (GEOPED),  Université Paris I Panthéon-Sorbonne (2014-2015)
+        <p><strong>- Master  </strong> en Sciences du Territoire, spécialité Urbanisme, Habitat et Coopération Internationale (UHCI),  Université Grenoble Alpes (2012-2014)
+		<p><strong>- Licence  </strong> de Géographie, Université Paris Cité (2009-2012)
+
+
 <h2>Publications</h2>
 
       <p><strong>Build or Buy? Human Capital and Corporate Diversification</strong> (<a href="http://paulhbeaumont.github.io/pdfs/beaumont_hebert_lyonnet.pdf" style="color: #DC143C">pdf</a>),  <br>

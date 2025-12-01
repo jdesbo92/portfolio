@@ -59,6 +59,7 @@ in_menu: true
       <p><strong>2023-2025</strong>: Enseignant-chercheur contractuel en géographie et en géomatique à <a href="https://www.utc.fr/">UTC</a> <br>
       <strong>2022-2023 </strong>: Enseignant-chercheur contractuel LRU en géographie à <a href="https://www.univ-tours.fr/">Université de Tours</a> <br>
       <strong>2020-2022</strong>: Attaché Temporaire d’Enseignement et de Recherche en géographie à <a href="https://www.univ-spn.fr/">Université Sorbonne Paris Nord</a> 
+		  
  </section> 
  
 <h2>Compétences et outils mobilisés </h2>
